@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Klasifikasi Hasil Clustering Video Game Sales
+Klasifikasi Hasil Clustering Video Game Sales
 
 ## Project Overview
 
